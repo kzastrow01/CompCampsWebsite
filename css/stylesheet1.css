@@ -20,9 +20,9 @@ body {
   text-align: center;
   margin: 0;
   padding: 0.1%;
-
 }
-.navbar a:link{
+
+.navbar a:link {
   text-align: center;
   background-color: #150CE8;
   color: #8E0CE8;
@@ -46,7 +46,7 @@ body {
   padding-end: 3%;
 }
 
-.navbar a:visited{
+.navbar a:visited {
   text-align: center;
   background-color: #150CE8;
   color: #8E0CE8;
@@ -70,7 +70,7 @@ body {
   padding-end: 3%;
 }
 
-.navbar a:hover{
+.navbar a:hover {
   text-align: center;
   background-color: #8E0CE8;
   color: #150CE8;
@@ -92,5 +92,4 @@ body {
   margin-end: 0px;
   padding-start: 3%;
   padding-end: 3%;
-
 }
