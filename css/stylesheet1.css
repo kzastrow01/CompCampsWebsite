@@ -14,3 +14,7 @@ body {
   -webkit-text-stroke: 1px black;
   text-stroke: 1px black;
 }
+
+.navbar {
+  list-style: none;
+}
