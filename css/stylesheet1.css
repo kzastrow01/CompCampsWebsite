@@ -16,5 +16,26 @@ body {
 }
 
 .navbar {
-  list-style: none;
+  text-align: center;
+  margin: 0;
+  padding: 0.1%;
+  background-color: #150CE8;
+}
+.navbar a{
+  color: #8E0CE8;
+  text-decoration: none;
+  font-size: 200%;
+  -moz-text-stroke: 1px black;
+  -webkit-text-stroke: 1px black;
+  text-stroke: 1px black;
+  font-family: 'Anton', sans-serif;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 10%;
+  -moz-margin-start: 0px;
+  -moz-margin-end: 0px;
+  -moz-padding-start: 10%;
+  margin-start: 0px;
+  margin-end: 0px;
+  padding-start: 10%;
 }
