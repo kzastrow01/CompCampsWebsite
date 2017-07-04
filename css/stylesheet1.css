@@ -95,5 +95,25 @@ body {
 }
 
 .news {
-  padding-left: 120%;
+  float:left;
+  padding-left: 12.2%;
+  padding-right: 55%;
+}
+
+.newsheader{
+  color: #8E0CE8;
+  -moz-text-stroke: 1.5px black;
+  -webkit-text-stroke: 1.5px black;
+  text-stroke: 1.5px black;
+  font-family: 'Anton', sans-serif;
+  font-size: 200%;
+}
+
+.newstext{
+  color: #8E0CE8;
+  -moz-text-stroke: 1.5px black;
+  -webkit-text-stroke: 1.5px black;
+  text-stroke: 1.5px black;
+  font-family: 'Anton', sans-serif;
+  font-size: 120%;
 }
