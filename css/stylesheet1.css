@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #efefef;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -9,8 +9,8 @@ body {
   font-family: 'Roboto', sans-serif;
   text-align: center;
   font-size: 200%;
-  color: white;
-  background-color: black;
+  color: #efefef;
+  background-color: #1b1b1b;
   padding-top:1%;
   padding-bottom:1%;
 }
@@ -23,8 +23,8 @@ body {
 
 .navbar a:link {
   text-align: center;
-  background-color: white;
-  color: black;
+  background-color: #efefef;
+  color: #1b1b1b;
   text-decoration: none;
   font-size: 200%;
   font-family: 'Roboto', sans-serif;
@@ -46,8 +46,8 @@ body {
 
 .navbar a:visited {
   text-align: center;
-  background-color: white;
-  color: black;
+  background-color: #efefef;
+  color: #1b1b1b;
   text-decoration: none;
   font-size: 200%;
   font-family: 'Roboto', sans-serif;
@@ -69,8 +69,8 @@ body {
 
 .navbar a:hover {
   text-align: center;
-  background-color: black;
-  color: white;
+  background-color: #1b1b1b;
+  color: #efefef;
   text-decoration: none;
   font-size: 200%;
   font-family: 'Roboto', sans-serif;
@@ -93,20 +93,22 @@ body {
 .news {
   float:left;
   max-width: 45%;
+  margin-bottom: none;
 }
 
 .newsheader{
-  color: black;
+  color: #1b1b1b;
   font-family: 'Roboto', sans-serif;
   font-size: 200%;
-  background-color: white;
+  background-color: #efefef;
+  padding-top:4%;
 }
 
 .newstext{
-  color: black;
+  color: #1b1b1b;
   font-family: 'Roboto', sans-serif;
   font-size: 150%;
-  background-color: white;
+  background-color: #efefef;
 }
 .newsimg {
   float: right;
@@ -118,6 +120,7 @@ body {
  .row{
    padding-left: 5%;
    padding-right: 5%;
+   margin-bottom: 0;
  }
 
  .latestvid {
@@ -135,4 +138,30 @@ body {
   padding-top:3%;
   padding-left: 47%;
   font-family: 'Roboto', sans-serif;
+}
+
+.images {
+  width: 20%;
+  padding-right: 0.5%;
+}
+
+.insta{
+  padding-left: 80%;
+  padding-top: 4%;
+}
+
+.about{
+  float:left;
+  max-width: 79%;
+  margin-bottom: none;
+}
+
+.gallery{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pics{
+  width: 50%;
 }
